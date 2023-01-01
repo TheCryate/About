@@ -2,7 +2,7 @@
 - 👨‍💻 I’m interested in coding and testing softwares
 
 > How to reach me 
-- 🐱‍💻[E-Mail](bathankota@hotmail.com)
+- 🐱‍💻**E-Mail:** " bathankota@hotmail.com "
 - 🐱‍💻[LinkedIn](https://linkedin.com/in/cryate)
 - 🐱‍💻[Linktree](https://linktr.ee/cryate)
 - 🐱‍💻[Stack Overflow](https://stackoverflow.com/users/20669644/cryate)
