@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheCryate
-- 👀 I’m interested in Development and Coding
+- 👨‍💻 I’m interested in coding and testing softwares
 - 📫 How to reach me " bathankota@hotmail.com "
 
 <!---
