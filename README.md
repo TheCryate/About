@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheCryate
 - 👨‍💻 I’m interested in coding and testing softwares
-**📫 How to reach me **
+- **📫 How to reach me **
 - #️⃣E-mail: " bathankota@hotmail.com "
 - #️⃣LinkedIn: " https://linkedin.com/in/cryate "
 - #️⃣Linktree: " https://linktr.ee/cryate "
