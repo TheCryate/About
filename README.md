@@ -2,9 +2,9 @@
 - 👨‍💻 I’m interested in coding and testing softwares
 
 - #️⃣E-mail: " bathankota@hotmail.com "
-- #️⃣LinkedIn: " linkedin.com/in/cryate "
+- #️⃣LinkedIn: " https://linkedin.com/in/cryate "
 - #️⃣Linktree: " https://linktr.ee/cryate "
-- #️⃣Stack Overflow: " stackoverflow.com/users/20669644/cryate "
+- #️⃣Stack Overflow: " https://stackoverflow.com/users/20669644/cryate "
 
 
 
