@@ -1,7 +1,7 @@
 <h1>Hi, I'm Batıhan!</h1>
   
 I am working as a **Software Test and Quality Assurance Specialist** at Testinium. Before that, I was interested in developing Discord bots with JavaScript.
-<p>As a former **Computer Programmer**, I will always have a soft spot for softwares. My desire for development and curiosity is where I thrive.</p>
+<p>As a former Computer Programmer, I will always have a soft spot for softwares. My desire for development and curiosity is where I thrive.</p>
 
 
 - 👨‍💻 I’m interested in coding and testing softwares
