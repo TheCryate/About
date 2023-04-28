@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @TheCryate
+<h1>Hi, I'm Batıhan!</h1>
+  
+I am working as a **Software Test and Quality Assurance Specialist** at Testinium. Before that, I was interested in developing Discord bots with JavaScript.
+<p>As a former Computer Programmer, I will always have a soft spot for softwares. My desire for development and curiosity is where I thrive.</p>
+
+
 - 👨‍💻 I’m interested in coding and testing softwares
 > 📫 How to reach me                                                                           
 [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][1]
