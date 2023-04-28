@@ -8,8 +8,8 @@
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=TheCryatez&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=TheCryate&show_icons=true&theme=radical)
 
 
 
