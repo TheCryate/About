@@ -8,10 +8,9 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=TheCryate&show_icons=true&theme=radical) 
 
+[![Cryate's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCryate&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
-[![Cryate's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCryate&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
