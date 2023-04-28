@@ -10,13 +10,15 @@
 ![Cryate's Github Stats](https://github-readme-stats.vercel.app/api?username=TheCryate&show_icons=true&theme=highcontrast) 
 [![Cryate's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCryate&size_weight=0.5&count_weight=0.5&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-![mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][1]
-[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)][1]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
+[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)][3]
+[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][4]
 
 [1]: bathankota@hotmail.com
-[2]: https://www.linkedin.com/in/your_contact_info
-[3]: https://www.facebook.com/your_contact_info
+[2]: https://linkedin.com/in/cryate
+[3]: https://linktr.ee/cryate
+[4]: https://stackoverflow.com/users/20669644/cryate
 
 
 
