@@ -6,11 +6,9 @@
 - 🐱‍💻[Linktree](https://linktr.ee/cryate)
 - 🐱‍💻[Stack Overflow](https://stackoverflow.com/users/20669644/cryate)
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=TheCryate&show_icons=true&theme=radical) 
+![Cryate's Github Stats](https://github-readme-stats.vercel.app/api?username=TheCryate&show_icons=true&theme=radical) 
 
-[![Cryate's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCryate&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCryate)](https://github.com/anuraghazra/github-readme-stats)
+[![Cryate's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCryate&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
