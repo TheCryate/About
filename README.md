@@ -7,6 +7,7 @@ I proudly serve as a <strong>Software Test and Quality Assurance Specialist</str
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)][2]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][3]
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][4]
+
 [1]: mailto:bathankota@hotmail.com
 [2]: https://linktr.ee/cryate
 [3]: https://linkedin.com/in/cryate
