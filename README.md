@@ -16,4 +16,4 @@ I am working as a <strong>Software Test and Quality Assurance Specialist</strong
 [3]: https://linkedin.com/in/cryate
 [4]: https://stackoverflow.com/users/20669644/cryate
 
-[![Cryate's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCryate&size_weight=0.5&count_weight=0.5&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Cryate's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batihankota&size_weight=0.5&count_weight=0.5&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
