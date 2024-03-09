@@ -6,8 +6,9 @@
 <p align="center">Proudly serving as a <strong>Software Test and Quality Assurance Specialist</strong> at <a href="https://testinium.com/">Testinium</a>.</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Java"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHppYzhuamwxNnQ4c3A3aDZ1Mmdhdm0xaXdmaTRtejY1M3hpcnVmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" width="125" height="125" alt="JavaScript"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJvemI2eW12dXpndHZqeWVoZ21qMWFjOTJudXp5Y3BjcHUwZ2tleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="125" height="125"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHppYzhuamwxNnQ4c3A3aDZ1Mmdhdm0xaXdmaTRtejY1M3hpcnVmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" width="125" height="125"/>
 </p>
 
 <p align="center">
@@ -66,3 +67,5 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batihankota&theme=darkhub" alt="GitHub Trophy"/></a>
 </p>
+
+
