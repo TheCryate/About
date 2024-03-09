@@ -1,5 +1,5 @@
 # About Me
-<h1>Hello, I'm Batıhan!</h1>
+Hello, I'm Batıhan!
 I proudly serve as a <strong>Software Test and Quality Assurance Specialist</strong> at Testinium. With a background in Computer Programming, I'm deeply passionate about unraveling the complexities of software systems. Fueled by an insatiable curiosity and an unwavering commitment to excellence, I eagerly explore new avenues to delve deeper into the world of coding and software testing.
 
 # Reach me                                                                
