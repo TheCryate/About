@@ -23,27 +23,27 @@
     <h4>Tools</h4>
   </ul>
 <p align="center">
-  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="50" alt="Android Studio"></a>
-  <a href="https://www.arduino.cc/en/software"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino.svg" width="50" alt="Arduino"></a>
-  <a href="https://bitbucket.org/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-dark.svg" width="50" alt="Bitbucket"></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"></a>
-  <a href="https://git-scm.com/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50" alt="Git"></a>
-  <a href="https://cucumber.io/docs/gherkin/"><img src="https://skillicons.dev/icons?i=gherkin" width="50" alt="Gherkin"></a>
-  <a href="https://www.mysql.com/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-light.svg" width="50" alt="MySQL"></a>
-  <a href="https://gradle.org/"><img src="https://skillicons.dev/icons?i=gradle" width="50" alt="Gradle"></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-dark.svg" width="50" alt="Intellij Idea"></a>
-  <a href="https://www.jenkins.io/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-light.svg" width="50" alt="Jenkins"></a>
-  <a href="https://maven.apache.org/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachemaven.svg" width="50" alt="Apache Maven"></a>
-  <a href="https://www.mongodb.com/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb.svg" width="50" alt="MongoDB"></a>
-  <a href="https://www.npmjs.com/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/npm.svg" width="50" alt="NPM"></a>
-  <a href="https://www.postgresql.org/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50" alt="PostgreSQL"></a>
-  <a href="https://www.postman.com/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50" alt="Postman"></a>
-  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/powershell-light.svg" width="50" alt="PowerShell"></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver.svg" width="50" alt="Microsoft SQL Server"></a>
-  <a href="https://www.selenium.dev/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/selenium.svg" width="50" alt="Selenium"></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscodecommunity-dark.svg" width="50" alt="Visual Studio"></a>
-  <a href="https://code.visualstudio.com/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50" alt="Visual Studio Code"></a>
-  <a href="https://nodejs.org/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-light.svg" width="50" alt="NodeJS"></a>
+  <a href="https://developer.android.com/studio" target="blank"><img src="https://skillicons.dev/icons?i=androidstudio" width="50" alt="Android Studio"></a>
+  <a href="https://www.arduino.cc/en/software" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino.svg" width="50" alt="Arduino"></a>
+  <a href="https://bitbucket.org/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-dark.svg" width="50" alt="Bitbucket"></a>
+  <a href="https://firebase.google.com/" target="blank"><img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"></a>
+  <a href="https://git-scm.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50" alt="Git"></a>
+  <a href="https://cucumber.io/docs/gherkin/" target="blank"><img src="https://skillicons.dev/icons?i=gherkin" width="50" alt="Gherkin"></a>
+  <a href="https://www.mysql.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-light.svg" width="50" alt="MySQL"></a>
+  <a href="https://gradle.org/" target="blank"><img src="https://skillicons.dev/icons?i=gradle" width="50" alt="Gradle"></a>
+  <a href="https://www.jetbrains.com/idea/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-dark.svg" width="50" alt="Intellij Idea"></a>
+  <a href="https://www.jenkins.io/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-light.svg" width="50" alt="Jenkins"></a>
+  <a href="https://maven.apache.org/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/apachemaven.svg" width="50" alt="Apache Maven"></a>
+  <a href="https://www.mongodb.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb.svg" width="50" alt="MongoDB"></a>
+  <a href="https://www.npmjs.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/npm.svg" width="50" alt="NPM"></a>
+  <a href="https://www.postgresql.org/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50" alt="PostgreSQL"></a>
+  <a href="https://www.postman.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50" alt="Postman"></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/powershell-light.svg" width="50" alt="PowerShell"></a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver.svg" width="50" alt="Microsoft SQL Server"></a>
+  <a href="https://www.selenium.dev/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/selenium.svg" width="50" alt="Selenium"></a>
+  <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscodecommunity-dark.svg" width="50" alt="Visual Studio"></a>
+  <a href="https://code.visualstudio.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50" alt="Visual Studio Code"></a>
+  <a href="https://nodejs.org/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-light.svg" width="50" alt="NodeJS"></a>
 </p>
   
    <ul>
@@ -63,17 +63,17 @@
     <h4>Interests</h4>
   </ul>
   <p align="center">
-    <a href="https://www.aseprite.org/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/aseprite.svg" width="50" alt="Aseprite"></a>
-    <a href="https://discord.js.org/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/discordjs-dark.svg" width="50" alt="Discord.JS"></a>
-    <a href="https://unity.com/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/unity-dark.svg" width="50" alt="Unity"></a>
+    <a href="https://www.aseprite.org/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/aseprite.svg" width="50" alt="Aseprite"></a>
+    <a href="https://discord.js.org/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/discordjs-dark.svg" width="50" alt="Discord.JS"></a>
+    <a href="https://unity.com/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/unity-dark.svg" width="50" alt="Unity"></a>
   </p>
   
   <ul>
     <h4>OS</h4>
   </ul>
   <p align="center">
-    <a href="https://www.kali.org/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kalilinux.svg" width="50" alt="Kali Linux"></a>
-    <a href="https://www.microsoft.com/tr-tr/windows"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows.svg" width="50" alt="Windows"></a>
+    <a href="https://www.kali.org/" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kalilinux.svg" width="50" alt="Kali Linux"></a>
+    <a href="https://www.microsoft.com/tr-tr/windows" target="blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows.svg" width="50" alt="Windows"></a>
   </p>
 
    <ul>
@@ -87,7 +87,7 @@
  
 <hr>
 
-<h3 align="center">:fire: My Stats</h3>
+<h3 align="center">:fire: My Stats :fire:</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=batihankota&theme=dark&background=000000" alt="GitHub Streak"/>
