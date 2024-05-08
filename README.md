@@ -30,6 +30,7 @@
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" width="50" alt="Android Studio"></a>
   <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino.svg" width="50" alt="Arduino"></a>
   <a href="https://bitbucket.org/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-dark.svg" width="50" alt="Bitbucket"></a>
+  <a href="http://appium.io/"target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/appium-dark.svg" width="50" alt="Appium"></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50" alt="Git"></a>
   <a href="https://cucumber.io/docs/gherkin/" target="_blank"><img src="https://skillicons.dev/icons?i=gherkin" width="50" alt="Gherkin"></a>
