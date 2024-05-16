@@ -26,6 +26,7 @@
     <h4>Tools</h4>
   </ul>
 <p align="center">
+  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/markdown-light.svg" width="50" alt="Markdown"></a>
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" width="50" alt="Android Studio"></a>
   <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino.svg" width="50" alt="Arduino"></a>
   <a href="https://bitbucket.org/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-dark.svg" width="50" alt="Bitbucket"></a>
