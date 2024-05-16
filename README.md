@@ -23,7 +23,7 @@
 <h3 align="center">:hammer_and_wrench: Skills :hammer_and_wrench: </h3>
 
   <ul>
-    <h4>Tools</h4>
+    <li><h4>Tools</h4></li>
   </ul>
 <p align="center">
   <a href="https://www.markdownguide.org/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/markdown-light.svg" width="50" alt="Markdown"></a>
@@ -53,7 +53,7 @@
 </p>
   
    <ul>
-    <h4>Languages</h4>
+    <li><h4>Languages</h4></li>
   </ul>
 
   <p align="center">
@@ -66,7 +66,7 @@
   </p>
 
   <ul>
-    <h4>Interests</h4>
+    <li><h4>Interests</h4></li>
   </ul>
   <p align="center">
     <a href="https://www.aseprite.org/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/aseprite.svg" width="50" alt="Aseprite"></a>
@@ -75,7 +75,7 @@
   </p>
   
   <ul>
-    <h4>OS</h4>
+    <li><h4>OS</h4></li>
   </ul>
   <p align="center">
     <a href="https://www.kali.org/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kalilinux.svg" width="50" alt="Kali Linux"></a>
@@ -83,7 +83,7 @@
   </p>
 
    <ul>
-    <h4>Social</h4>
+    <li><h4>Social</h4></li>
   </ul>
   <p align="center">
     <a href="https://linkedin.com/in/batıhankota" target="_blank"> <img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50" alt="LinkedIn"></a>
