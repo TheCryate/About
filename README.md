@@ -34,6 +34,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50" alt="Git"></a>
   <a href="https://cucumber.io/docs/gherkin/" target="_blank"><img src="https://skillicons.dev/icons?i=gherkin" width="50" alt="Gherkin"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-light.svg" width="50" alt="MySQL"></a>
+  <a href="https://trello.com/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/trello.svg" width="50" alt="Trello"></a>
   <a href="https://gradle.org/" target="_blank"><img src="https://skillicons.dev/icons?i=gradle" width="50" alt="Gradle"></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/intellijidea-dark.svg" width="50" alt="Intellij Idea"></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-light.svg" width="50" alt="Jenkins"></a>
