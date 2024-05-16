@@ -85,7 +85,7 @@
     <h4>Social</h4>
   </ul>
   <p align="center">
-    <a href="https://linkedin.com/in/batihankota" target="_blank"> <img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50" alt="LinkedIn"></a>
+    <a href="https://linkedin.com/in/batıhankota" target="_blank"> <img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50" alt="LinkedIn"></a>
     <a href="https://instagram.com/cryate_" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"></a>
     <a href="https://discord.gg/cryate" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord"></a>
   </p>
