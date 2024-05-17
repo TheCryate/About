@@ -38,7 +38,6 @@
   <a href="http://appium.io/"target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/appium-dark.svg" width="50" alt="Appium"></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50" alt="Git"></a>
-  <a href="https://cucumber.io/docs/gherkin/" target="_blank"><img src="https://skillicons.dev/icons?i=gherkin" width="50" alt="Gherkin"></a>
 </p>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"></a>
@@ -57,6 +56,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"></a>
 </p>
 <p align="center">
+  <a href="https://cucumber.io/docs/gherkin/" target="_blank"><img src="https://skillicons.dev/icons?i=gherkin" width="50" alt="Gherkin"></a>
   <a href="https://www.selenium.dev/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/selenium.svg" width="50" alt="Selenium"></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscodecommunity-dark.svg" width="50" alt="Visual Studio"></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50" alt="Visual Studio Code"></a>
