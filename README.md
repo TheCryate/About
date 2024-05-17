@@ -17,6 +17,12 @@
   <img src="https://komarev.com/ghpvc/?username=batihankota&style=for-the-badge&color=grey" alt=""/>
 </p>
 
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bathankota&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ce740d&bar_color_cover=false"/>
+</p>
+
+
+
 
 <p align = "center"><img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/></p>
 
