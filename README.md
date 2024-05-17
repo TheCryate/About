@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p align="center">Proudly serving as a <strong>Software Test Engineer</strong> at <a href="https://testinium.com/">Testinium</a>.</p>
+<p align="center">Proudly serving as a <strong>Software Test Engineer</strong></p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 </p>
@@ -32,16 +32,15 @@
       <h4>Tools</h4>
   </ul>
 <p align="center">
-  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/markdown-light.svg" width="50" alt="Markdown"></a>
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" width="50" alt="Android Studio"></a>
   <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" width="50" alt="Arduino"></a>
   <a href="https://bitbucket.org/" target="_blank"><img src="https://skillicons.dev/icons?i=bitbucket" width="50" alt="Bitbucket"></a>
   <a href="http://appium.io/"target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/appium-dark.svg" width="50" alt="Appium"></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50" alt="Git"></a>
+  <a href="https://cucumber.io/docs/gherkin/" target="_blank"><img src="https://skillicons.dev/icons?i=gherkin" width="50" alt="Gherkin"></a>
 </p>
 <p align="center">
-  <a href="https://cucumber.io/docs/gherkin/" target="_blank"><img src="https://skillicons.dev/icons?i=gherkin" width="50" alt="Gherkin"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"></a>
   <a href="https://trello.com/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/trello.svg" width="50" alt="Trello"></a>
   <a href="https://gradle.org/" target="_blank"><img src="https://skillicons.dev/icons?i=gradle" width="50" alt="Gradle"></a>
@@ -72,6 +71,7 @@
     <a href="#"><img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"></a>
     <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50" alt="JavaScript"></a>
     <a href="#"><img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"></a>
+    <a href="https://www.markdownguide.org/" target="_blank"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/markdown-light.svg" width="50" alt="Markdown"></a>
   </p>
   <p align="center">
     <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-light.svg" width="50" alt="Java"></a>
