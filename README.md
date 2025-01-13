@@ -129,9 +129,6 @@
 <a href="https://github.com/batihankota/yadgame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=batihankota&repo=yadgame&theme=dark"/>
 </a>
-<a href="https://github.com/batihankota/selenium-gauge-x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=batihankota&repo=selenium-gauge-x&theme=dark"/>
-</a>
 </p>
 <p align=center>
 <a href="https://github.com/batihankota/vscm_gui">
