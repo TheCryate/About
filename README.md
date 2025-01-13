@@ -130,7 +130,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=batihankota&repo=yadgame&theme=dark"/>
 </a>
 <a href="https://github.com/batihankota/selenium-core-x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=batihankota&repo=selenium-core-x&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=batihankota&repo=selenium-gauge-x&theme=dark"/>
 </a>
 </p>
 <p align=center>
